@@ -133,6 +133,7 @@ TOPICS = {
     "kreng-jai": ("#a21caf", "#4f46e5"),
     "emerging-adulthood": ("#2563eb", "#14b8a6"),
     "alone-together": ("#6d28d9", "#ea580c"),
+    "feed-comparison": ("#be185d", "#0284c7"),
 }
 
 ASSET_RE = re.compile(

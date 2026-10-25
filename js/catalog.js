@@ -21,7 +21,8 @@
     { slug: 'later-life',        name: 'Later Life',          icon: 'fa-seedling',           c1: '#0d9488', c2: '#d97706' },
     { slug: 'kreng-jai',         name: 'Kreng Jai',           icon: 'fa-comment-slash',      c1: '#a21caf', c2: '#4f46e5' },
     { slug: 'emerging-adulthood', name: 'Emerging Adulthood', icon: 'fa-route',              c1: '#2563eb', c2: '#14b8a6' },
-    { slug: 'alone-together',     name: 'Alone Together',      icon: 'fa-comments',           c1: '#6d28d9', c2: '#ea580c' }
+    { slug: 'alone-together',     name: 'Alone Together',      icon: 'fa-comments',           c1: '#6d28d9', c2: '#ea580c' },
+    { slug: 'feed-comparison',    name: 'Feed Comparison',     icon: 'fa-scale-balanced',     c1: '#be185d', c2: '#0284c7' }
   ];
 
   window.MindLensCatalog = Object.freeze({
