@@ -30,7 +30,8 @@
     'hustle-culture': 'Hustle',
     empathy: 'Empathy',
     'toxic-positivity': 'Positivity',
-    'later-life': 'Later'
+    'later-life': 'Later',
+    'kreng-jai': 'Kreng'
   };
   const SVG = 'http://www.w3.org/2000/svg';
 

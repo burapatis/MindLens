@@ -18,7 +18,8 @@
     { slug: 'hustle-culture', name: 'Hustle Culture',      icon: 'fa-fire-flame-curved',  c1: '#f59e0b', c2: '#ef4444' },
     { slug: 'empathy',           name: 'Empathy & Bystander', icon: 'fa-hand-holding-heart', c1: '#10b981', c2: '#06b6d4' },
     { slug: 'toxic-positivity',  name: 'Toxic Positivity',    icon: 'fa-ear-listen',         c1: '#f97316', c2: '#ec4899' },
-    { slug: 'later-life',        name: 'Later Life',          icon: 'fa-seedling',           c1: '#0d9488', c2: '#d97706' }
+    { slug: 'later-life',        name: 'Later Life',          icon: 'fa-seedling',           c1: '#0d9488', c2: '#d97706' },
+    { slug: 'kreng-jai',         name: 'Kreng Jai',           icon: 'fa-comment-slash',      c1: '#a21caf', c2: '#4f46e5' }
   ];
 
   window.MindLensCatalog = Object.freeze({
