@@ -32,7 +32,8 @@
     'toxic-positivity': 'Positivity',
     'later-life': 'Later',
     'kreng-jai': 'Kreng',
-    'emerging-adulthood': 'Clock'
+    'emerging-adulthood': 'Clock',
+    'alone-together': 'Alone'
   };
   const SVG = 'http://www.w3.org/2000/svg';
 
