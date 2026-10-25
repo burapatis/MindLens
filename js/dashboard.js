@@ -34,7 +34,8 @@
     'kreng-jai': 'Kreng',
     'emerging-adulthood': 'Clock',
     'alone-together': 'Alone',
-    'feed-comparison': 'Feed'
+    'feed-comparison': 'Feed',
+    'unread-share': 'Share'
   };
   const SVG = 'http://www.w3.org/2000/svg';
 

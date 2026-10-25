@@ -134,6 +134,7 @@ TOPICS = {
     "emerging-adulthood": ("#2563eb", "#14b8a6"),
     "alone-together": ("#6d28d9", "#ea580c"),
     "feed-comparison": ("#be185d", "#0284c7"),
+    "unread-share": ("#4d7c0f", "#7c3aed"),
 }
 
 ASSET_RE = re.compile(
