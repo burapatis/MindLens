@@ -29,7 +29,8 @@
     imposter: 'Imposter',
     'hustle-culture': 'Hustle',
     empathy: 'Empathy',
-    'toxic-positivity': 'Positivity'
+    'toxic-positivity': 'Positivity',
+    'later-life': 'Later'
   };
   const SVG = 'http://www.w3.org/2000/svg';
 

@@ -17,7 +17,8 @@
     { slug: 'imposter',       name: 'Imposter Syndrome',   icon: 'fa-masks-theater',      c1: '#8b5cf6', c2: '#ec4899' },
     { slug: 'hustle-culture', name: 'Hustle Culture',      icon: 'fa-fire-flame-curved',  c1: '#f59e0b', c2: '#ef4444' },
     { slug: 'empathy',           name: 'Empathy & Bystander', icon: 'fa-hand-holding-heart', c1: '#10b981', c2: '#06b6d4' },
-    { slug: 'toxic-positivity',  name: 'Toxic Positivity',    icon: 'fa-ear-listen',         c1: '#f97316', c2: '#ec4899' }
+    { slug: 'toxic-positivity',  name: 'Toxic Positivity',    icon: 'fa-ear-listen',         c1: '#f97316', c2: '#ec4899' },
+    { slug: 'later-life',        name: 'Later Life',          icon: 'fa-seedling',           c1: '#0d9488', c2: '#d97706' }
   ];
 
   window.MindLensCatalog = Object.freeze({
