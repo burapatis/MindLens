@@ -35,7 +35,8 @@
     'emerging-adulthood': 'Clock',
     'alone-together': 'Alone',
     'feed-comparison': 'Feed',
-    'unread-share': 'Share'
+    'unread-share': 'Share',
+    'online-disinhibition': 'Tone'
   };
   const SVG = 'http://www.w3.org/2000/svg';
 
