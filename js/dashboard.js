@@ -31,7 +31,8 @@
     empathy: 'Empathy',
     'toxic-positivity': 'Positivity',
     'later-life': 'Later',
-    'kreng-jai': 'Kreng'
+    'kreng-jai': 'Kreng',
+    'emerging-adulthood': 'Clock'
   };
   const SVG = 'http://www.w3.org/2000/svg';
 

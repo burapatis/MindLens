@@ -131,6 +131,7 @@ TOPICS = {
     "toxic-positivity": ("#f97316", "#ec4899"),
     "later-life": ("#0d9488", "#d97706"),
     "kreng-jai": ("#a21caf", "#4f46e5"),
+    "emerging-adulthood": ("#2563eb", "#14b8a6"),
 }
 
 ASSET_RE = re.compile(
