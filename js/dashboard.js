@@ -36,7 +36,8 @@
     'alone-together': 'Alone',
     'feed-comparison': 'Feed',
     'unread-share': 'Share',
-    'online-disinhibition': 'Tone'
+    'online-disinhibition': 'Tone',
+    'ai-intimacy': 'Bond'
   };
   const SVG = 'http://www.w3.org/2000/svg';
 

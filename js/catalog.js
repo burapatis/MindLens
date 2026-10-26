@@ -24,7 +24,8 @@
     { slug: 'alone-together',     name: 'Alone Together',      icon: 'fa-comments',           c1: '#6d28d9', c2: '#ea580c' },
     { slug: 'feed-comparison',    name: 'Feed Comparison',     icon: 'fa-scale-balanced',     c1: '#be185d', c2: '#0284c7' },
     { slug: 'unread-share',       name: 'Unread Share',        icon: 'fa-paper-plane',        c1: '#4d7c0f', c2: '#7c3aed' },
-    { slug: 'online-disinhibition', name: 'Online Disinhibition', icon: 'fa-bolt',             c1: '#c2410c', c2: '#155e75' }
+    { slug: 'online-disinhibition', name: 'Online Disinhibition', icon: 'fa-bolt',             c1: '#c2410c', c2: '#155e75' },
+    { slug: 'ai-intimacy',          name: 'AI Intimacy',          icon: 'fa-microchip',          c1: '#9d174d', c2: '#0f766e' }
   ];
 
   window.MindLensCatalog = Object.freeze({

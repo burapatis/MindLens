@@ -136,6 +136,7 @@ TOPICS = {
     "feed-comparison": ("#be185d", "#0284c7"),
     "unread-share": ("#4d7c0f", "#7c3aed"),
     "online-disinhibition": ("#c2410c", "#155e75"),
+    "ai-intimacy": ("#9d174d", "#0f766e"),
 }
 
 ASSET_RE = re.compile(
