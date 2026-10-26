@@ -37,7 +37,8 @@
     'feed-comparison': 'Feed',
     'unread-share': 'Share',
     'online-disinhibition': 'Tone',
-    'ai-intimacy': 'Bond'
+    'ai-intimacy': 'Bond',
+    'home-scarcity': 'Tight'
   };
   const SVG = 'http://www.w3.org/2000/svg';
 
